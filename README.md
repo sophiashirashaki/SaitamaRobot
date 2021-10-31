@@ -49,7 +49,7 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
 
 ## Heroku
 SaitamaRobot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aryazakaria01/SaitamaRobot/tree/SaitamaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sophiashirashaki/SaitamaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 ## How to setup/deploy.
 
